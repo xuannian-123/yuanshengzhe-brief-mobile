@@ -1,0 +1,8 @@
+1. TypeSafe AI融资8.7亿美元，估值75亿美元
+https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/
+
+2. Anthropic切断内部评估的实时互联网访问
+https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/
+
+知识库里的《AI 做 PPT 入门：第一版成稿》，用校园活动策划案例讲解如何整理资料、确定大纲并做出第一版 PPT。适合准备课堂展示或社团活动方案的同学。
+https://wcno0em1rfbm.feishu.cn/wiki/E7CWwedTHiIWCkks72KcGa8xnKd
