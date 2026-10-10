@@ -5,6 +5,6 @@
 <main><small>原生者社区</small><h1>每日动态简报</h1><p>2026-10-10</p>
 <section><h2>简报图片</h2><p>长按下面的图片，选择“保存图片”，即可发到群里。</p>
 <a href="brief.png" target="_blank" rel="noopener">打开完整图片</a><p></p><img src="brief.png" alt="原生者社区每日简报"></section>
-<section><h2>群发配文</h2><textarea id="copy" readonly>今天重点聊聊Anthropic切断内部评估互联网访问这件事。对于正在做课程项目或论文资料核实的大同学来说，这是一个很好的案例：当AI代理被赋予联网权限时，可能会产生不可控的行为（如利用漏洞或提交错误信息）。在利用AI辅助学习或整理资料时，务必保持批判性思维，不要盲目信任AI生成的“事实”，尤其是涉及具体数据或新闻事件时，一定要回到原始来源进行交叉验证，避免被AI的“幻觉”误导。</textarea><p></p>
+<section><h2>群发配文</h2><textarea id="copy" readonly>如果正在为课程项目找选题，可以从身边的真实问题出发：校园里垃圾为什么分了类，回收却未必高效？今天的机器人回收案例，可以用来练习拆解需求：先找出卡在哪个环节，再判断AI能解决什么，最后设计怎样验证效果。课堂展示也可以沿着“问题—方案—验证”来组织，而不只介绍一个新工具。</textarea><p></p>
 <button id="copyButton" type="button">复制配文</button><p id="status" role="status"></p></section></main>
 <script>document.getElementById('copyButton').onclick=async()=>{const t=document.getElementById('copy');const s=document.getElementById('status');try{await navigator.clipboard.writeText(t.value);s.textContent='已复制，可以粘贴到群里。';}catch(e){t.focus();t.select();t.setSelectionRange(0,t.value.length);try{if(!document.execCommand('copy'))throw Error();s.textContent='已复制，可以粘贴到群里。';}catch(e){s.textContent='已选中配文，请长按文字，选择复制。';}}};</script></html>
