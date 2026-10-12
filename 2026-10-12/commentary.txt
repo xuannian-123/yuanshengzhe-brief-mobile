@@ -1,8 +1,8 @@
-1. 亚马逊洽谈收购AI初创Decart，估值约70亿美元
+1. 亚马逊洽谈收购AI芯片适配初创公司Decart
 https://www.ithome.com/1/011/720.htm
 
-2. OpenAI将GPT-6.1 Sol默认上下文长度提升至500k
-https://www.ithome.com/1/011/736.htm
+2. 模思智能完成超10亿元Pre-A轮融资
+https://www.jiemian.com/article/15178020.html
 
 知识库这篇《日常学习 AI 平台推荐及使用》，介绍了从导入课件到生成报告、思维导图与交互式课堂的学习入口，适合想了解这些平台怎么用的同学。
 https://wcno0em1rfbm.feishu.cn/wiki/KIZdwvoFaiIIPFk9DsUckOXcnXc
