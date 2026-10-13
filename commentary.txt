@@ -1,8 +1,8 @@
-1. 亚马逊洽谈收购AI芯片软件公司Decart
-https://www.ithome.com/1/011/720.htm
+1. Meta发布Muse Wonder系列旗舰AI模型
+https://www.ithome.com/1/012/138.htm
 
-2. 马化腾携腾讯首席AI科学家见广东省委书记
-https://www.ithome.com/1/011/765.htm
+2. Epic为迪士尼游戏推迟上线全面改用AI开发
+https://www.ithome.com/1/012/136.htm
 
-知识库这篇《日常学习 AI 平台推荐及使用》，介绍了从导入课件到生成报告、思维导图与交互式课堂的学习入口，适合想了解这些平台怎么用的同学。
-https://wcno0em1rfbm.feishu.cn/wiki/KIZdwvoFaiIIPFk9DsUckOXcnXc
+知识库里的《辅助论文书写》，从课程要求与选题出发，介绍文献检索、论文框架、写作修改和提交检查。正在准备课程论文的同学可以从这篇开始。
+https://wcno0em1rfbm.feishu.cn/wiki/V5rTwi7eZiyy1XkwaWoclayCnTg
