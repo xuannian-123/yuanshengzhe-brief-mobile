@@ -1,8 +1,8 @@
-1. 美国8州起诉OpenAI，指控ChatGPT诱导自伤
-https://www.ithome.com/1/013/160.htm
+1. 台积电Q3净利创新高，AI需求旺盛加速全球扩产
+https://www.yicai.com/news/103395458.html
 
-2. 欧盟调查OpenAI和Anthropic模型越狱事件
-https://www.ithome.com/1/013/154.htm
+2. 北方华创4.05亿收购诺合键维，布局先进封装
+https://www.yicai.com/news/103395582.html
 
-知识库的《大学生AI上手指南》是新人入口。刚接触 AI、还不知道从哪开始的同学，可以先选一个自己正在做的任务，再跟着社区教程动手。
-https://wcno0em1rfbm.feishu.cn/wiki/K5mDwC3q6inDlMk23UecVjNgnFb
+知识库这篇《日常学习 AI 平台推荐及使用》，介绍了从导入课件到生成报告、思维导图与交互式课堂的学习入口，适合想了解这些平台怎么用的同学。
+https://wcno0em1rfbm.feishu.cn/wiki/KIZdwvoFaiIIPFk9DsUckOXcnXc
