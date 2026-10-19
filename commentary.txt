@@ -1,8 +1,8 @@
-1. 微软称自研模型性能超OpenAI同类，算力仅用其1/4
-https://www.ithome.com/1/013/761.htm
+1. OpenAI确认将自研人形机器人，预计2027年展示样机
+https://www.ithome.com/1/014/433.htm
 
-2. 理想汽车芯片子公司马赫心科技完成16.25亿元融资
-https://www.ithome.com/1/014/007.htm
+2. 鹏城云脑Ⅲ万P国产算力上线试运行，服务大模型训练
+https://www.ithome.com/1/014/387.htm
 
-这篇按 Agent 和普通聊天两条路线，串起材料准备、岗位分析、简历初稿、润色与核查，适合准备实习或校招简历时参考。
-https://wcno0em1rfbm.feishu.cn/wiki/FWJdwOEg2ipnS2k4FEwcHJk7n4f
+这篇以大会日程网页为例，介绍需求拆解、数据整理、网页生成和错误检查，适合想用 AI 做出第一个小网页的同学。
+https://wcno0em1rfbm.feishu.cn/wiki/F8FPw28KDilXX8kugZ4c0vAsnnX
