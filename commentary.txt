@@ -1,8 +1,8 @@
-1. Anthropic 获黑石 600 亿美元芯片融资
-https://www.ithome.com/1/014/628.htm
+1. OpenAI加速融资拟估值超1.4万亿美元
+https://www.ithome.com/1/015/078.htm
 
-2. 迪士尼拟雇佣Character.AI多数员工，三年薪酬约1.8亿美元
-https://www.ithome.com/1/014/634.htm
+2. Tenstorrent完成15亿美元E轮融资
+https://www.ithome.com/1/015/045.htm
 
-这页把提示词库、提示词管理工具和对话模板放在一起，可以按学习、写作、求职、创作等任务寻找示例。
-https://wcno0em1rfbm.feishu.cn/wiki/XTnrw8yfGicLUnk8hQmcEbrknAf
+这页提供社团官网、个人作品集和课程复习工具三张项目卡，说明目标、产出物、所需技能及参考教程，适合挑一个项目动手。
+https://wcno0em1rfbm.feishu.cn/wiki/P4hgwzTe2iAjGEkz2o7crPHendg
