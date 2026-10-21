@@ -1,8 +1,8 @@
-1. OpenAI加速融资拟估值超1.4万亿美元
-https://www.ithome.com/1/015/078.htm
+1. Anthropic上半年净亏损超800亿美元
+https://www.ithome.com/1/015/642.htm
 
-2. Tenstorrent完成15亿美元E轮融资
-https://www.ithome.com/1/015/045.htm
+2. Salesforce拟56.6亿美元收购Braze
+https://www.ithome.com/1/015/643.htm
 
-这页提供社团官网、个人作品集和课程复习工具三张项目卡，说明目标、产出物、所需技能及参考教程，适合挑一个项目动手。
-https://wcno0em1rfbm.feishu.cn/wiki/P4hgwzTe2iAjGEkz2o7crPHendg
+这页按论文、资讯、课程和音视频整理资料来源，列出 arXiv、Hugging Face 等入口，方便按需要寻找学习材料。
+https://wcno0em1rfbm.feishu.cn/wiki/Y2a5wuD2uiW2olkO5LHcLnYin7g
