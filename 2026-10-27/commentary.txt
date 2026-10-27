@@ -1,0 +1,8 @@
+1. Anthropic提交IPO申请，拟纳斯达克上市
+https://www.ithome.com/1/018/162.htm
+
+2. Meta宣布至多950亿美元融资计划
+https://www.ithome.com/1/018/144.htm
+
+这篇记录用 Claude Artifacts 制作网页小游戏、试玩并反馈故障的过程，适合想从一个小原型开始尝试 AI 编程的同学。
+https://wcno0em1rfbm.feishu.cn/wiki/HUpow1UCwiQAhPkE4AjcQgPhnqh
