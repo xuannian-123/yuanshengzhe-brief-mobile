@@ -1,8 +1,8 @@
-1. 美司法部问询英伟达收购Hugging Face案
-https://www.ithome.com/1/019/272.htm
+1. Anthropic成SpaceX最大单一客户贡献超三成营收
+https://www.ithome.com/1/019/845.htm
 
-2. 美满电子拟收购光通信龙头Lumentum
-https://www.ithome.com/1/019/279.htm
+2. 微软上季度从OpenAI获100亿美元收入
+https://www.ithome.com/1/019/583.htm
 
-这篇按任务介绍邮件整理、会议记录、面试练习、视觉设计和网站制作等 AI 工具，适合想从聊天助手扩展到具体工作场景的同学。
-https://wcno0em1rfbm.feishu.cn/wiki/FWDRwELk2iW75gklGsccwvkdntw
+这份成长地图把入门拆成认识 AI、跑通工具、按任务学一招、做出作品四步，也给出卡住时的查找入口。
+https://wcno0em1rfbm.feishu.cn/wiki/LZKUwVb69iX6FjkkB2schOFvnRc
