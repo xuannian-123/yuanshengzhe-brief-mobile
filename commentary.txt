@@ -1,8 +1,8 @@
-1. Anthropic成SpaceX最大单一客户贡献超三成营收
-https://www.ithome.com/1/019/845.htm
+1. DeepSeek曝第二轮融资1055亿元估值6155亿
+https://www.ithome.com/1/020/121.htm
 
-2. 微软上季度从OpenAI获100亿美元收入
-https://www.ithome.com/1/019/583.htm
+2. 快手可灵 AI 完成约 198 亿元增资交割
+https://www.ithome.com/1/020/406.htm
 
-这份成长地图把入门拆成认识 AI、跑通工具、按任务学一招、做出作品四步，也给出卡住时的查找入口。
-https://wcno0em1rfbm.feishu.cn/wiki/LZKUwVb69iX6FjkkB2schOFvnRc
+这篇介绍如何用课程资料生成学习卡和测验，以及难度、题量、答题解释等设置，适合先拿一章内容做自测。
+https://wcno0em1rfbm.feishu.cn/wiki/FhxHwN4ueij1UakFcs2cpbEqn9g
