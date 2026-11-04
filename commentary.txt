@@ -1,8 +1,8 @@
-1. Anthropic Q3营收170亿美元拟IPO
-https://www.ithome.com/1/021/277.htm
+1. Marvell拟1150亿美元全股票收购Lumentum
+https://www.ithome.com/1/021/755.htm
 
-2. Marvell宣布全股票收购Lumentum拓展AI光互连
-https://www.ithome.com/1/021/255.htm
+2. ChatGPT周活跃用户达12亿，两个月新增2亿
+https://www.ithome.com/1/021/878.htm
 
-这页按平台整理客户端安装、账号登录和基础使用教程，也提供常见注册问题与模型接口的查找入口。
-https://wcno0em1rfbm.feishu.cn/wiki/DB7LwWrOCiktALkmVYgcyJgDnVh
+这篇按论文、PPT、作业和数据处理等场景，说明哪些工作可以由 AI 辅助，以及如何核对事实和说明使用情况。
+https://wcno0em1rfbm.feishu.cn/wiki/ZxxowxPxzieIw8ktTEyceYGQnif
