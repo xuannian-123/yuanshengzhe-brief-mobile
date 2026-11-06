@@ -1,8 +1,8 @@
-1. OpenAI模型发现Linux内核948个提权漏洞
-https://www.ithome.com/1/022/476.htm
+1. Meta收购AI编程初创公司Conductor
+https://www.ithome.com/1/022/765.htm
 
-2. OpenAI称印度成ChatGPT最大周活市场
-https://www.ithome.com/1/022/166.htm
+2. OpenAI收购Pierre整合至Codex工具
+https://www.ithome.com/1/022/758.htm
 
-这篇通过教材练习和逐题问答，展示 ChatGPT 学习模式如何提问、反馈和追问，适合复习时检查自己是否真正理解概念。
-https://wcno0em1rfbm.feishu.cn/wiki/XVOKwW3zwi7V98kRk6Tcs3fAnkc
+学习清晰指令、少样本示例、补充上下文与任务拆分，把模糊提问改成可迭代的任务。
+https://wcno0em1rfbm.feishu.cn/wiki/NaESw9Mi9i0dEFkKNSxcdVrqnzB

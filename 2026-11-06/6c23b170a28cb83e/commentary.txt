@@ -1,0 +1,8 @@
+1. Meta收购AI编程初创公司Conductor
+https://www.ithome.com/1/022/765.htm
+
+2. OpenAI收购Pierre整合至Codex工具
+https://www.ithome.com/1/022/758.htm
+
+学习清晰指令、少样本示例、补充上下文与任务拆分，把模糊提问改成可迭代的任务。
+https://wcno0em1rfbm.feishu.cn/wiki/NaESw9Mi9i0dEFkKNSxcdVrqnzB
