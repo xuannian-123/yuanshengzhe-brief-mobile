@@ -1,8 +1,8 @@
-1. Anthropic最快本周二启动IPO路演，同步发布新模型
-https://www.nbd.com.cn/articles/2026-11-10/4643164.html
+1. Anthropic启动IPO路演，拟募资最高643.5亿美元
+https://www.ithome.com/1/025/209.htm
 
-2. Anthropic推进IPO，估值预期因市场回调降温
-https://www.ithome.com/1/024/576.htm
+2. Anthropic七名联合创始人拟在IPO中各套现2.5亿美元
+https://www.ithome.com/1/025/217.htm
 
-参考作者对写作措辞、长对话与功能使用的整理；具体功能与适用条件需结合所用版本判断。
-https://wcno0em1rfbm.feishu.cn/wiki/GwZ5wLwtFiIPYyk8BOdcfTtPnHe
+这篇整理 Runway 的文字、图像输入和提示词用法，以及生成迭代与导出流程，适合先做一个短镜头练手。
+https://wcno0em1rfbm.feishu.cn/wiki/SkDMwCUKiiY2chk7xXJcmri7nvb

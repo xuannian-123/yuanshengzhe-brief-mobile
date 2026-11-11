@@ -1,0 +1,8 @@
+1. Anthropic启动IPO路演，拟募资最高643.5亿美元
+https://www.ithome.com/1/025/209.htm
+
+2. Anthropic七名联合创始人拟在IPO中各套现2.5亿美元
+https://www.ithome.com/1/025/217.htm
+
+这篇整理 Runway 的文字、图像输入和提示词用法，以及生成迭代与导出流程，适合先做一个短镜头练手。
+https://wcno0em1rfbm.feishu.cn/wiki/SkDMwCUKiiY2chk7xXJcmri7nvb
