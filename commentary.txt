@@ -1,8 +1,8 @@
-1. Anthropic启动IPO路演，拟募资最高643.5亿美元
-https://www.ithome.com/1/025/209.htm
+1. 台积电批准向Anthropic和OpenAI各投资5亿美元
+https://www.ithome.com/1/025/481.htm
 
-2. Anthropic七名联合创始人拟在IPO中各套现2.5亿美元
-https://www.ithome.com/1/025/217.htm
+2. Anthropic承销商考虑上调IPO发行价
+https://www.ithome.com/1/025/526.htm
 
-这篇整理 Runway 的文字、图像输入和提示词用法，以及生成迭代与导出流程，适合先做一个短镜头练手。
-https://wcno0em1rfbm.feishu.cn/wiki/SkDMwCUKiiY2chk7xXJcmri7nvb
+12个工具，帮助查找、收藏、优化和管理提示词，也可用于比较不同版本。
+https://wcno0em1rfbm.feishu.cn/wiki/EDjJwzqCuiP6ISkEui9coSAontc
