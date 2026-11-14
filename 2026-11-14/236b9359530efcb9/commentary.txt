@@ -1,0 +1,8 @@
+1. OpenAI完成150亿美元私募融资，估值1.25万亿美元
+https://www.ithome.com/1/026/495.htm
+
+2. Anthropic IPO认购需求达6倍
+https://www.ithome.com/1/026/671.htm
+
+梳理固定工作流与自主 Agent 的区别、常见组合模式，以及工具接口对可靠性的影响。
+https://wcno0em1rfbm.feishu.cn/wiki/FWYXwqRkPi3JBzk2o8QcbVztnpd
