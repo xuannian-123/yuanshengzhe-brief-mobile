@@ -1,8 +1,8 @@
-1. OpenAI完成150亿美元私募融资，估值1.25万亿美元
-https://www.ithome.com/1/026/495.htm
+1. 超12万人请愿恢复黄仁勋英伟达CEO职务
+https://www.ithome.com/1/027/252.htm
 
-2. Anthropic IPO认购需求达6倍
-https://www.ithome.com/1/026/671.htm
+2. 白宫工作组建议放宽AI企业安全事件问责
+https://www.ithome.com/1/027/229.htm
 
-梳理固定工作流与自主 Agent 的区别、常见组合模式，以及工具接口对可靠性的影响。
-https://wcno0em1rfbm.feishu.cn/wiki/FWYXwqRkPi3JBzk2o8QcbVztnpd
+这篇复盘一次《沙丘》题材 AI 短片制作，记录剧本、资产库、逐镜生成与剪辑，也展示筛选、返工和成本，适合想了解完整项目的同学。
+https://wcno0em1rfbm.feishu.cn/wiki/Jk7MwVCr5iIihJk9KiUcXoWRntf
