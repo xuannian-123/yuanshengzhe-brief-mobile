@@ -1,8 +1,8 @@
-1. IMF警告全球经济过度依赖AI，循环融资超1万亿美元
-https://www.ithome.com/1/027/861.htm
+1. 亚马逊谷歌将合计持有Anthropic 28%股份
+https://www.jiemian.com/article/15343932.html
 
-2. AMD完成收购World Labs，李飞飞任首席科学家
-https://www.ithome.com/1/027/969.htm
+2. Anthropic获准纳斯达克上市，发行价70至78美元
+https://www.ithome.com/1/028/599.htm
 
-按研究任务和来源类型选择检索工具，提醒你补查图书、新闻、政策与灰色文献，适合避免只依赖一个搜索入口。
-https://wcno0em1rfbm.feishu.cn/wiki/RAhTwscAzipgdgk3MV6cW4Zsnre
+跟随教程认识 CodeAgent、定义工具并串起调用过程，作为首个可运行 Agent 的练习入口。
+https://wcno0em1rfbm.feishu.cn/wiki/G8qfwNPe2iogL7kbOvAcWXx2nwe
