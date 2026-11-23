@@ -1,8 +1,8 @@
-1. 美参议员致函苹果谷歌Meta批评AI脱衣应用监管不力
-https://www.ithome.com/1/030/421.htm
+1. Anthropic以约万亿美元市值上市
+https://www.yicai.com/news/103449324.html
 
-2. 软银回应曾考虑收购SK海力士传闻
-https://www.ithome.com/1/030/339.htm
+2. 微软CEO称Claude Code半年动摇VS Code地位
+https://www.ithome.com/1/030/733.htm
 
-DAIR.AI 维护的提示工程学习资料，涵盖任务描述、上下文与示例设计、知识检索和智能体开发，含教程、案例、论文链接与实验笔记本，适合当学习手册与查询资料。
-https://wcno0em1rfbm.feishu.cn/wiki/SohuwRuCdipzIwkodyPcimsenzf
+知识库的 AI 生图专题按 ChatGPT 与 Nano Banana 2 整理入门教学、玩法和创意实验，可以先选一个案例，再逐步修改提示词。
+https://wcno0em1rfbm.feishu.cn/wiki/YY7awR32AiQMaEkIw1WctYo6ns0
