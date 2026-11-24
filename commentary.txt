@@ -1,8 +1,8 @@
-1. Anthropic以约万亿美元市值上市
-https://www.yicai.com/news/103449324.html
+1. 亚马逊收购Decart AI优化技术，强化自研芯片竞争力
+https://www.ithome.com/1/031/262.htm
 
-2. 微软CEO称Claude Code半年动摇VS Code地位
-https://www.ithome.com/1/030/733.htm
+2. 加州总检察长起诉OpenAI，指控忽视AI安全风险
+https://www.ithome.com/1/030/921.htm
 
-知识库的 AI 生图专题按 ChatGPT 与 Nano Banana 2 整理入门教学、玩法和创意实验，可以先选一个案例，再逐步修改提示词。
-https://wcno0em1rfbm.feishu.cn/wiki/YY7awR32AiQMaEkIw1WctYo6ns0
+这篇 Codex 图文教程从安装、登录和界面讲到第一个本地任务，也整理办公、Git、插件与自动化的用法，适合初次接触时对照操作。
+https://wcno0em1rfbm.feishu.cn/wiki/C4eJwiC2SiXOStkRaEfcgUEUnxd

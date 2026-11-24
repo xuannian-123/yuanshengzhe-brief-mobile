@@ -1,0 +1,8 @@
+1. 亚马逊收购Decart AI优化技术，强化自研芯片竞争力
+https://www.ithome.com/1/031/262.htm
+
+2. 加州总检察长起诉OpenAI，指控忽视AI安全风险
+https://www.ithome.com/1/030/921.htm
+
+这篇 Codex 图文教程从安装、登录和界面讲到第一个本地任务，也整理办公、Git、插件与自动化的用法，适合初次接触时对照操作。
+https://wcno0em1rfbm.feishu.cn/wiki/C4eJwiC2SiXOStkRaEfcgUEUnxd
