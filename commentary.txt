@@ -1,8 +1,8 @@
-1. 赛诺菲宣布以410亿美元现金收购Insmed
-https://www.nbd.com.cn/articles/2026-11-24/4657741.html
+1. Anthropic上市一周后股价跌破83美元发行价
+https://www.ithome.com/1/031/983.htm
 
-2. 黄仁勋召开全员大会道歉，称英伟达无需接班人计划
-https://www.nbd.com.cn/articles/2026-11-25/4657914.html
+2. ElevenLabs洽谈2027年融资，目标估值330亿美元
+https://www.ithome.com/1/032/548.htm
 
-按工具用途浏览文献搜索、阅读、管理和语言修改的分工，适合刚接触课程论文、还不清楚该选哪类工具的同学。
-https://wcno0em1rfbm.feishu.cn/wiki/Ld1hwjofDiWyzYkZqQ6cstSnnCe
+以智谱 GLM-5 技术报告为底本，沿底层架构（DSA 稀疏注意力）、训练基础设施（Slime 异步强化学习）、长程智能体实战三条主线拆解核心创新。
+https://wcno0em1rfbm.feishu.cn/wiki/TDNOwfOGJineZAkQlItccb6SnNd

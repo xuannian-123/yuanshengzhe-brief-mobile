@@ -1,0 +1,8 @@
+1. Anthropic上市一周后股价跌破83美元发行价
+https://www.ithome.com/1/031/983.htm
+
+2. ElevenLabs洽谈2027年融资，目标估值330亿美元
+https://www.ithome.com/1/032/548.htm
+
+以智谱 GLM-5 技术报告为底本，沿底层架构（DSA 稀疏注意力）、训练基础设施（Slime 异步强化学习）、长程智能体实战三条主线拆解核心创新。
+https://wcno0em1rfbm.feishu.cn/wiki/TDNOwfOGJineZAkQlItccb6SnNd
