@@ -1,8 +1,8 @@
-1. Anthropic上市一周后股价跌破83美元发行价
-https://www.ithome.com/1/031/983.htm
+1. 英国央行警告AI融资规模扩大加剧金融脆弱性
+https://www.nbd.com.cn/articles/2026-11-26/4660199.html
 
-2. ElevenLabs洽谈2027年融资，目标估值330亿美元
-https://www.ithome.com/1/032/548.htm
+2. 瑞士通报五起AI智能体针对关键基础设施攻击
+https://www.ithome.com/1/033/131.htm
 
-以智谱 GLM-5 技术报告为底本，沿底层架构（DSA 稀疏注意力）、训练基础设施（Slime 异步强化学习）、长程智能体实战三条主线拆解核心创新。
-https://wcno0em1rfbm.feishu.cn/wiki/TDNOwfOGJineZAkQlItccb6SnNd
+这篇用十个案例讲创意生图、多图融合、角色一致性、连续分镜和平面设计，还提供修改提示词与交付检查的思路。
+https://wcno0em1rfbm.feishu.cn/wiki/OtKgwIqZ7iv9VDkzWL1c0ySInab
