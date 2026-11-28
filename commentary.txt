@@ -1,8 +1,8 @@
-1. 英国央行警告AI融资规模扩大加剧金融脆弱性
-https://www.nbd.com.cn/articles/2026-11-26/4660199.html
+1. OpenAI反诉苹果窃取商业秘密并阻碍竞争
+https://www.ithome.com/1/033/780.htm
 
-2. 瑞士通报五起AI智能体针对关键基础设施攻击
-https://www.ithome.com/1/033/131.htm
+2. 联想部分Win11商用电脑预装ChatGPT
+https://www.ithome.com/1/033/777.htm
 
-这篇用十个案例讲创意生图、多图融合、角色一致性、连续分镜和平面设计，还提供修改提示词与交付检查的思路。
-https://wcno0em1rfbm.feishu.cn/wiki/OtKgwIqZ7iv9VDkzWL1c0ySInab
+从安装 Git、VS Code、Claude Code 开始，到用 CC Switch 切换模型、熟悉界面、实战演示与 Tools 工具，一步步上手。
+https://wcno0em1rfbm.feishu.cn/wiki/PO0wwSomfiHv0vkVF1vcnna2nRf
